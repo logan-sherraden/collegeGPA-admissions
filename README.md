@@ -4,7 +4,7 @@ Logan Sherraden
 Economic Statistics
 Project 2
 
-Method for Building the Model
+Method for Building the Model:
 
 I started by putting all variables in multiple regression model and took out Asian variable because it had no significant effect on College GPA.
  	Adjusted R-squared changed from 0.3364 to 0.3366.
@@ -13,7 +13,7 @@ I adjusted the setting on the Parent 1 and Parent 2 education categories and add
 
 I took each other variable out and viewed to see if the adjusted R-squared changed. Taking them out lowered the adjusted R-squared so I kept them in the model.
 
-Variables in the Model
+Variables in the Model:
 
 The variables I used in the model that give the highest adjusted R-squared are SAT score, High School GPA, If the student is white, College the student will be in at the University, Gender of the student, Education of their first parent and education of their second parent.
 
